@@ -14,7 +14,7 @@ env:
   REPO_BRANCH: openwrt-24.10
   OpenWRTDevice: Netgear-ex7300
   CONFIG_FILE: .config
-  TZ: Europe/Berlin
+  TZ: America/Toronto
 
 
 jobs:
